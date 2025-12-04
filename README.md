@@ -24,7 +24,8 @@ The goal is to understand which stocks move similarly, share risk levels, or sho
 - Produce final cluster assignments + summary table
 
 ---
-
+##  Dataset
+The project uses 10 NSE-listed stocks:
 RELIANCE.NS
 TCS.NS
 INFY.NS
@@ -98,5 +99,4 @@ This was completed as part of my **Day 13 of 100 Days of AI/ML Challenge**.
 
 
 
-## 📊 Dataset
-The project uses 10 NSE-listed stocks:
+
